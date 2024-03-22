@@ -1,0 +1,11 @@
+- 👋 Hi, I'm @YhannMatheus, I'm a Brasilian Dev;
+- 👀 I'm interested in studying and developing software and web;
+- 🌱 I'm currently studying my first year of Computer Science;
+- 📫 How to contact me: yhannmatheus@icloud.com;
+- 😄 Pronouns: He, Him;
+- I program in C#, Python and JavaScript;
+- Portugese(native), English(basic), Espanish(intermediary)
+<!---
+YhannMatheus/YhannMatheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
