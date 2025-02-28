@@ -2,7 +2,7 @@
 - 👀 I'm interested in studying and developing software and web;
 - 🌱 I'm currently studying my first year of Computer Science;
 - 😄 Pronouns: He, Him;
-- I program in C#, Python and JavaScript;
+- I program in C#, Python and C lenguage;
 - Portugese(native), English(basic), Espanish(intermediary)
 - 📫 How to contact me: yhannmatheus@icloud.com;
 <!---
