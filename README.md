@@ -6,10 +6,10 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnol
 
 ## 🚀 Sobre mim
 
-- 🎓 Bacharelando em Ciênca da computação
-- 💻 Foco em desenvolvimento backend e sistemas de alta performance
-- 🔍 Entusiasta de tecnologias modernas e arquitetura limpa
-- 🌱 Estudando cada vez mais sobre aplicações web assíncronas e reativas
+- 🎓 Bacharelando em Ciência da Computação  
+- 💻 Foco em desenvolvimento backend e sistemas de alta performance  
+- 🔍 Entusiasta de tecnologias modernas e arquitetura limpa  
+- 🌱 Estudando cada vez mais sobre aplicações web assíncronas e reativas  
 
 ---
 
@@ -27,31 +27,41 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 </div>
 
-### 🗄️ Banco de Dados & ORMs
+---
+
+## 🧩 Frameworks por linguagem
+
+### 🐍 Python
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20"/> **FastAPI**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20"/> **Flask**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> **Django**
+- 🐢 **Tortoise ORM**
+
+### 💙 C# (.NET)
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20"/> **.NET Framework**
+- 🔧 ASP.NET MVC / Web API
+
+### 🌐 JavaScript / TypeScript
+
+- ⚡ **Elysia** – Framework fullstack leve e rápido
+- 🧬 **Drizzle ORM** – ORM moderno para TypeScript com segurança de tipos
+
+---
+
+## 🗄️ Banco de Dados
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
-- 🐢 Tortoise ORM
-- 🧬 Drizzle ORM
-
-### ⚙️ Frameworks & Bibliotecas
-
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-</div>
-
-- ⚡ **Elysia** – Framework web fullstack rápido e leve para TypeScript
-
 ---
 
 ## 📫 Entre em contato
 
-- 💼 [LinkedIn](www.linkedin.com/in/yhannmatheus)
-- 📧 [yhann@tucupy.com](mailto:seu.email@dominio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yhannmatheus)
+- 📧 [yhann@tucupy.com](mailto:yhann@tucupy.com)
 
 ---
 
