@@ -61,7 +61,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnol
 ## 📫 Entre em contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yhannmatheus)
-- 📧 [yhann@tucupy.com](mailto:yhann@tucupy.com)
+- 📧 [yhann.mendes@poraygua.com.br](mailto:yhann.mendes@poraygua.com.br)
 
 ---
 
