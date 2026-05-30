@@ -2,11 +2,6 @@
 
 Sou um desenvolvedor **Backend** focado em criar soluções robustas, escaláveis e com arquitetura limpa. Atualmente, estou cursando **Ciência da Computação** e me aprofundando em sistemas de alta performance e tecnologias web assíncronas.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YhannMatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="410" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YhannMatheus&layout=compact&langs_count=6&theme=dracula" width="370" />
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
